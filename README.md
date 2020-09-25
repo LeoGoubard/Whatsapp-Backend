@@ -1,5 +1,5 @@
 # Whatsapp-Clone
-This project was build with a Frontend, on another repository at this adress : https://github.com/LeoGoubard/Whatsapp-clone-frontend
+This project was build with a Frontend, on another repository at this adress : https://github.com/LeoGoubard/Whatsapp-Frontend
 ## Available Script
 
 In the project directory, you can run few scripts but the most important is:
